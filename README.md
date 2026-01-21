@@ -22,7 +22,7 @@ The focus is on practical business insights and real-world data handling.
 - Source: Kaggle – E-Commerce Data  
 - Records: ~400,000 transactions  
 - Period: 2010–2011  
-- Note: Dataset not included due to GitHub file size limits
+- Dataset and Excel Dashboard: https://drive.google.com/drive/folders/1DCiIFsOnzxRMQrOxpfVUxmUptJBTh4P_?usp=sharing
 
 ## Dashboard
 📄 [View Dashboard (PDF)](ecommerce_sales_dashboard.pdf)
